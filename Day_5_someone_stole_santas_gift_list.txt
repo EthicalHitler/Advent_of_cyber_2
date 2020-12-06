@@ -1,0 +1,59 @@
+# DAY 5 - SOMEONE STOLE SANTA'S GIFT LIST ! - ETHICAL HITLER
+
+--------------------------------------------------------------
+
+```
+export IP='10.10.234.82'
+
+```
+--------------------------------------------------------------
+
+1. Without using directory brute forcing, what's Santa's secret login panel?
+
+```
+/santapanel
+
+```
+--------------------------------------------------------------
+
+2. Visit Santa's secret login panel and bypass the login using SQLi
+
+```
+NO ANSWER NEEDED
+
+```
+--------------------------------------------------------------
+
+3. How many entries are there in the gift database?
+
+```
+22
+
+```
+--------------------------------------------------------------
+
+4. What did Paul ask for?
+
+```
+github ownership
+
+```
+--------------------------------------------------------------
+
+5. What is the flag?
+
+```
+thmfox{All_I_Want_for_Christmas_Is_You} 
+
+```
+
+--------------------------------------------------------------
+
+6. What is admin's password?
+
+```
+EhCNSWzzFP6sc7gB
+
+```
+
+--------------------------------------------------------------
