@@ -1,0 +1,54 @@
+# DAY 6-BE CAREFUL WITH WHAT YOU WISH ON A CHRISTMAS NIGHT-ETHICAL HITLER
+
+-------------------------------------------------------------------
+
+```
+export IP='10.10.31.233'
+
+```
+-------------------------------------------------------------------
+
+1. What vulnerability type was used to exploit the application?
+
+```
+Stored Crosssite Scripting
+
+```
+-------------------------------------------------------------------
+
+2. What query string can be abused to craft a reflected XSS?
+
+```
+q
+
+```
+
+-------------------------------------------------------------------
+
+3. Launch the OWASP ZAP Application
+
+```
+NO ANSWER NEEDED
+
+```
+
+-------------------------------------------------------------------
+
+4. Run a ZAP (zaproxy) automated scan on the target. How many XSS alerts are in the scan?
+
+```
+2
+
+```
+
+-------------------------------------------------------------------
+
+5. Explore the XSS alerts that ZAP has identified, are you able to make an alert appear on the "Make a wish" website?
+
+```
+NO ANSWER NEEDED
+
+```
+
+-------------------------------------------------------------------
+
