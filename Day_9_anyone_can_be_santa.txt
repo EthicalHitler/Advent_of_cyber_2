@@ -1,0 +1,52 @@
+# DAY 9 - ANYONE CAN BE SANTA! - ETHICAL HITLER
+
+-----------------------------------------------
+
+```
+export IP='10.10.135.161'
+
+```
+
+-----------------------------------------------
+
+Question #1: Name the directory on the FTP server that has data accessible by the "anonymous" user
+
+```
+public
+
+```
+
+-----------------------------------------------
+
+Question #2: What script gets executed within this directory?
+
+
+```
+backup.sh
+
+```
+
+-----------------------------------------------
+
+Question #3: What movie did Santa have on his Christmas shopping list?
+
+
+```
+The Polar Express 
+
+```
+
+-----------------------------------------------
+
+Question #4: Re-upload this script to contain malicious data (just like we did in section 9.6. Output the contents of /root/flag.txt!
+
+```
+THM{even_you_can_be_santa}
+
+
+```
+
+-----------------------------------------------
+
+
+
