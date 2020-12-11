@@ -1,0 +1,51 @@
+# DAY 10 -  DON'T BE SELFISH! - ETHICAL HITLER
+
+-----------------------------------------------
+
+```
+export IP='10.10.250.163'
+
+```
+
+-----------------------------------------------
+
+
+Question #1 Using enum4linux, how many users are there on the Samba server (MACHINE_IP)?
+
+```
+3
+
+```
+
+-----------------------------------------------
+
+
+Question #2 Now how many "shares" are there on the Samba server?
+
+
+````
+4
+
+````
+
+-----------------------------------------------
+
+
+Question #3 Use smbclient to try to login to the shares on the Samba server (MACHINE_IP). What share doesn't require a password?
+
+```
+tbfc-santa
+
+```
+
+-----------------------------------------------
+
+Question #4 Log in to this share, what directory did ElfMcSkidy leave for Santa?
+
+```
+jingle-tunes
+
+```
+
+-----------------------------------------------
+
