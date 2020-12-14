@@ -1,0 +1,89 @@
+# DAY 13 - COAL FOR CHRISTMAS - ETHICAL HITLER
+
+----------------------------------------------
+
+```
+export IP='10.10.184.11'
+
+```
+
+----------------------------------------------
+
+# PORT SCANNING:
+
+1.What old, deprecated protocol and service is running?
+
+```
+Telnet
+
+```
+
+----------------------------------------------
+
+# INITIAL ACCESS:
+
+1. Connect to this service to see if you can make use of it. You can connect to the service with the standard command-line client, named after the name of the service, or netcat with syntax like this:
+
+telnet MACHINE_IP <PORT_FROM_NMAP_SCAN>
+
+What credential was left for you?
+
+```
+clauschristmas
+
+```
+
+----------------------------------------------
+
+# ENUMERATION:
+
+1. What distribution of Linux and version number is this server running?
+
+```
+Ubuntu 12.04
+
+```
+
+2. This is a very old version of Linux! This may be vulnerable to some kernel exploits, that we could use to escalate our privileges.
+
+Take a look at the cookies and milk that the server owners left for you. You can do this with the cat command as mentioned earlier.
+
+cat cookies_and_milk.txt
+
+Who got here first?
+
+```
+Grinch
+
+```
+
+3. What is the verbatim syntax you can use to compile, taken from the real C source code comments?
+
+````
+gcc -pthread dirty.c -o dirty -lcrypt
+
+````
+
+----------------------------------------------
+
+# PRIVELLGE ESCALATION:
+
+1. Run the commands to compile the exploit, and run it.
+
+What "new" username was created, with the default operations of the real C source code?
+
+```
+firefart
+
+```
+
+2. After you leave behind the coal, you can run tree | md5sum
+
+What is the MD5 hash output?
+
+```
+8b16f00dd3b51efadb02c1df7f8427cc
+
+```
+
+----------------------------------------------
