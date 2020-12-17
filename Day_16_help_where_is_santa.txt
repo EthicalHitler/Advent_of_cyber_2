@@ -1,0 +1,46 @@
+# DAY 16 - HELP! WHERE IS SANTA? - ETHICAL HITLER
+-------------------------------------------------------------
+
+```
+export IP='10.10.91.144'
+
+```
+
+1. What is the port number for the web server?
+
+```
+8000
+
+```
+-------------------------------------------------------------
+
+2. Without using enumerations tools such as Dirbuster, what is the directory for the API?  (without the API key)
+
+```
+/api/
+
+```
+-------------------------------------------------------------
+
+3. Where is Santa right now?
+
+```
+Winter Wonderland, Hyde Park, London
+
+```
+-------------------------------------------------------------
+
+
+4. Find out the correct API key. Remember, this is an odd number between 0-100. After too many attempts, Santa's Sled will block you. 
+
+To unblock yourself, simply terminate and re-deploy the target instance (MACHINE_IP)
+
+
+```
+57
+
+```
+
+-------------------------------------------------------------
+
+
