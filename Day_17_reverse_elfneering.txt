@@ -1,0 +1,37 @@
+# DAY 17  - REVERSEELFNEERING - ETHICAL HITLER
+
+-----------------------------------------------------------
+
+```
+export IP='10.10.230.124'
+
+```
+-----------------------------------------------------------
+
+
+1.  What is the value of local_ch when its corresponding movl instruction is called (first if multiple)? 
+
+```
+1
+
+```
+-----------------------------------------------------------
+
+2. What is the value of eax when the imull instruction is called?
+
+```
+6
+
+```
+-----------------------------------------------------------
+
+
+3. What is the value of local_4h before eax is set to 0?
+
+```
+6
+
+```
+-----------------------------------------------------------
+
+
